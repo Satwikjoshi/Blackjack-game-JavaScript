@@ -8,12 +8,8 @@ let message=""
 let messageEl= document.getElementById("message-el")
 let sumEL= document.getElementById("sum")
 let cardsEl= document.getElementById("cards-el")
-let player={
-    name:"Satwik",
-    score: 50
-}
+
 playerEl=document.getElementById("player-el")
-playerEl.textContent=player.name + ": $" + player.score
 
 function startgame(){
     isAlive = true
