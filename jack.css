@@ -1,11 +1,20 @@
 body
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("https://t4.ftcdn.net/jpg/03/62/05/31/360_F_362053188_oQ0WRHCFkIY4QlXS1S5d1i9bpYup67ll.jpg");
+    background-image: url("https://imgs.search.brave.com/KgiqgCKGsOU_YiguVmzTuhidQEAUl_mBI7nPbljMINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jYXJkcy1wb2tl/ci1jaGlwcy1ncmVl/bi1iYWNrZ3JvdW5k/Xzk2MzM2LTEyNzcu/anBnP3NpemU9NjI2/JmV4dD1qcGc");
     background-size: cover;
     text-align: center;
     color:white;
     font-weight: bold;
+}
+
+.container {
+    background-color: #016f32;
+    max-width: auto;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    
 }
 
 h1
